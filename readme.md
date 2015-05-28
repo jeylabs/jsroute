@@ -1,0 +1,1 @@
+## Laravel JS Route Generator
